@@ -30,7 +30,7 @@
 ---
 
 ## 📂 Featured Projects
-🔹 [**Green**](https://github.com/Kirian-snx/Green) – *[add a short description later]*  
+🔹 [**Green**](https://github.com/Kirian-snx/Green) – Green helps landscapers by using AI and AR to suggest and visualize the right plants for any environment. 
 🔹 [**Budget Planner**](https://github.com/Kirian-snx/html-budget-planner) – Simple HTML budget manager  
 
 ---

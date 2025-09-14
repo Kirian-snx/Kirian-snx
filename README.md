@@ -7,12 +7,10 @@
 
 ## 👨‍💻 About Me
 
-💼 Software Engineer at [Teads](https://www.teads.com/) | Co-Founder & CTO at [Semantyx](https://www.linkedin.com/company/semantyx-co/)
-🎓 EPITECH Alumni  
-
-🧑‍🚀 I’m a **backend wizard** who believes that a programming language is just the instrument — what matters is understanding the music behind it. My focus is on **backend engineering, algorithms, and cloud/DevOps**, but I also enjoy exploring frontend technologies when needed.
-
-🌌 My ultimate goal is to **contribute to space exploration** and play a role in humanity’s journey beyond Earth. Software engineering is my way to build tools that can help us get there.
+💼 Software Engineer at [Teads](https://www.teads.com/) | Co-Founder & CTO at [Semantyx](https://www.linkedin.com/company/semantyx-co/)<br>
+🎓 EPITECH Alumni<br>
+🧑‍🚀 I’m a **backend wizard** who believes that a programming language is just the instrument — what matters is understanding the music behind it. My focus is on **backend engineering, algorithms, and cloud/DevOps**, but I also enjoy exploring frontend technologies when needed.<br>
+🌌 My ultimate goal is to **contribute to space exploration** and play a role in humanity’s journey beyond Earth. Software engineering is my way to build tools that can help us get there.<br>
 
 ---
 
@@ -34,9 +32,8 @@
 ---
 
 ## 📂 Featured Projects
-🔹 [**Green**](https://github.com/Kirian-snx/Green) – Green helps landscapers by using AI and AR to suggest and visualize the right plants for any environment. 
-
-🔹 [**Budget Planner**](https://github.com/Kirian-snx/html-budget-planner) – Simple HTML budget manager  
+🔹 [**Green**](https://github.com/Kirian-snx/Green) – Green helps landscapers by using AI and AR to suggest and visualize the right plants for any environment.<br>
+🔹 [**Budget Planner**](https://github.com/Kirian-snx/html-budget-planner) – Simple HTML budget manager<br>
 
 ---
 

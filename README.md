@@ -6,10 +6,14 @@
 ---
 
 ## 👨‍💻 About Me
+
 💼 Software Engineer at [Teads](https://www.teads.com/) | Co-Founder & CTO at [Semantyx](https://www.linkedin.com/company/semantyx/)  
 🎓 EPITECH Alumni  
+
 🧑‍🚀 I’m a **backend wizard** who believes that a programming language is just the instrument — what matters is understanding the music behind it. My focus is on **backend engineering, algorithms, and cloud/DevOps**, but I also enjoy exploring frontend technologies when needed.
-🌌 My ultimate goal is to **contribute to space exploration** and play a role in humanity’s journey beyond Earth. Software engineering is my way to build tools that can help us get there.  
+
+🌌 My ultimate goal is to **contribute to space exploration** and play a role in humanity’s journey beyond Earth. Software engineering is my way to build tools that can help us get there.
+
 ---
 
 ## 🛠 Tech Stack

@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-💼 Software Engineer at [Teads](https://www.teads.com/) | Co-Founder & CTO at [Semantyx](https://www.linkedin.com/company/semantyx/)  
+💼 Software Engineer at [Teads](https://www.teads.com/) | Co-Founder & CTO at [Semantyx](https://www.linkedin.com/company/semantyx-co/)
 🎓 EPITECH Alumni  
 
 🧑‍🚀 I’m a **backend wizard** who believes that a programming language is just the instrument — what matters is understanding the music behind it. My focus is on **backend engineering, algorithms, and cloud/DevOps**, but I also enjoy exploring frontend technologies when needed.
@@ -53,7 +53,7 @@
 
 ## 🌌 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/kirian-xxxx/">
+  <a href="https://www.linkedin.com/in/kirian-senaux/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
